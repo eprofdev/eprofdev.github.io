@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/u/:path*",
+      "destination": "https://eprofdev.github.io/u/:path*"
+    }
+  ]
+}
